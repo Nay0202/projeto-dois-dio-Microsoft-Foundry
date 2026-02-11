@@ -1,6 +1,6 @@
 # Projeto DIO - Microsoft-Foundry
 
-Desse projeto foi realizado a seleção do gbt-4o e ________ apos ter implementando ambas as opções foi criada um serviço de pesquisa, descreve brevemente o que eu estava buscando com as pesquisas
+Desse projeto foi realizado a seleção dos chats apos ter implementando ambas as opções foi criada um serviço de pesquisa, descreve brevemente o que eu estava buscando com as pesquisas
 
 
 <img width="1008" height="541" alt="image" src="https://github.com/user-attachments/assets/932808ab-c28a-4cd6-a01b-0df09a18960e" />
