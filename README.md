@@ -1,4 +1,4 @@
-# Projeto dio - Microsoft-Foundry
+# Projeto DIO - Microsoft-Foundry
 
 Desse projeto foi realizado a seleção do gbt-4o e ________ apos ter implementando ambas as opções foi criada um serviço de pesquisa, descreve brevemente o que eu estava buscando com as pesquisas
 
